@@ -11,7 +11,7 @@ Please follow the steps below to reproduce the result.
 
 ### Environment Requirement
 
-[Python](https://www.python.org/downloads/) and [Anaconda](https://docs.anaconda.com/anaconda/install/) installations are required to set up the environment. The necessary Python packages are stored in ```./requirements.yml```, which can be aotumatcically installed using anaconda. We recommand setting up the environment on a Linux machine.
+[Python](https://www.python.org/downloads/) and [Anaconda](https://docs.anaconda.com/anaconda/install/) installations are required to set up the environment. The necessary Python packages are stored in ```./requirements.yml```, which can be aotumatcically installed using anaconda. We recommand setting up the environment on a Linux machine with nvidia GPU and CUDA 11.1.
 
 ### Python Environment Setup
 
