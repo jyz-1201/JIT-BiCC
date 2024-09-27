@@ -9,9 +9,13 @@ Please follow the steps below to reproduce the result.
 
 ## Environment Setup
 
+### Environment Requirement
+
+[Python](https://www.python.org/downloads/) and [Anaconda](https://docs.anaconda.com/anaconda/install/) are required to setup the environment. The required python packages are stored in ```./requirements.yml```, which can be aotumatcically installed by anaconda. We recommand to setup the environment on a Linux machine.
+
 ### Python Environment Setup
 
-Run the following command in terminal (or command line) to prepare virtual environment:
+Run the following command in terminal (or command line) to prepare virtual environment. The required version of python and packages will be installed and activated.
 
 ```shell
 conda env create --file requirements.yml
